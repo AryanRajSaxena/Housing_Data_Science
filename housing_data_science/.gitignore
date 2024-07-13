@@ -7,6 +7,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+notebooks/content.html
+notebooks/new_content.html
 env/
 build/
 develop-eggs/
